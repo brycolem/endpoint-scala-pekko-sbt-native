@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/target/scala-3.3.1/scala_3-0.1-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/resources/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/resources/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpServer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/scala/HttpServer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controller/ApplicationController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/scala/controller/ApplicationController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/ApplicationService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/scala/service/ApplicationService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/ApplicationModel.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/brycolem/workspaces/benchmarks/scala-pekko-sbt-native/src/main/scala/model/ApplicationModel.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
