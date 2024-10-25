@@ -1,0 +1,81 @@
+# SBT directories
+target/
+project/target/
+project/project/
+
+# Idea directories
+.idea/
+.idea_modules/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code directories and files
+.vscode/
+.history/
+.bsp/
+
+# Intellij IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# Mac OS metadata
+.DS_Store
+
+# Play Framework logs
+logs/
+
+# Generated sources and binaries
+dist/
+lib/
+
+# Play evolutions
+conf/evolutions/default/*/state.sql
+
+# SBT build artifacts
+*.lock
+.cache/
+lib_managed/
+src_managed/
+sbt-dist/
+
+# Scala Worksheet plugin
+*.worksheet.sc
+
+# Specific to Play
+!conf/routes
+!conf/application.conf
+!conf/logback.xml
+
+# Generated Twirl templates
+app/views/**/*.template.scala
+
+# Logs and crash reports
+*.log
+
+# Test results
+test-result/
+
+# Packages
+*.jar
+*.war
+*.zip
+
+# IDE specific
+*.swp
+*~
+
+# Exclude Play binary dependencies
+lib/
+
+# Akka persistence journal files (if you're using Akka persistence)
+journal/
+
+# Akka snapshot store (if you're using Akka persistence)
+snapshots/
